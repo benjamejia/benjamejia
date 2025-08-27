@@ -1,4 +1,7 @@
 ## Hi there 👋
+<p>Hola 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+</p>
 
 <!--
 **benjamejia/benjamejia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
