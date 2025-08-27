@@ -1,8 +1,11 @@
 # uouo  
-<p align="center">Soy **Benjamin**, estudiante de ciencias computacionales. <br> En mis tiempos libres me gusta tatuar, llevo tres años tatuando.</p>  
+<p align="center">Soy Benjamin, estudiante de ciencias computacionales. <br> En mis tiempos libres me gusta tatuar, llevo tres años tatuando.</p>  
 
-## Instagram  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/benjamin_padilla__)
+<p align="center">
+  <a href="https://instagram.com/benjamin_padilla__" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=benjamejia&show_icons=true&theme=radical" />
 </p>
