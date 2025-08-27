@@ -1,21 +1,6 @@
-## Hi there 👋
-<p>Hola 
-  <img align="left" alt="csharp" widht="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=benjamejia)](https://github.com/benjamejia/github-readme-stats)
-</p>
+# uouo  
+Soy **Benjamin**, estudiante de ciencias computacionales.  
+En mis tiempos libres me gusta tatuar y estudiar.  
 
-
-<!--
-**benjamejia/benjamejia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Instagram  
+[Instagram]([https://linkedin.com/in/juan-dev](https://www.instagram.com/benjamin_padilla__/?next=%2F))  
