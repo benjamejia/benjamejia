@@ -3,13 +3,9 @@
 
 <p align="center">
   <a href="https://instagram.com/benjamin_padilla__" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-1394%20seguidores-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
-<a href="https://instagram.com/TU_USUARIO" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-1200%20seguidores-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=benjamejia&show_icons=true&theme=radical" />
