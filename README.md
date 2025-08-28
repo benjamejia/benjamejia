@@ -1,4 +1,4 @@
-<h1>Hola</h1>
+<h1 align="center">Hola</h1>
 <p align="center">Soy Benjamin, estudiante de ciencias computacionales. <br> En mis tiempos libres me gusta tatuar, llevo tres años tatuando.</p>  
 
 <p align="center">
@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=benjamejia&show_icons=true&theme=radical" />
 </p>
-
+<p algin="center">Las herramientas que he usado</p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="py logo"  />
   <img width="12" />
