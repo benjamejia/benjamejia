@@ -1,4 +1,4 @@
-<h1 align="center">Hellow, I'm Benjamin! 👋</h1>
+<h1 align="center">Hello, I'm Benjamin! 👋</h1>
 
 <p align="center">
   <strong>Computer Science Engineering Student | future software Developer | Tattoo Artist 🎨</strong>
