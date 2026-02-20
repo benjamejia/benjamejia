@@ -1,11 +1,11 @@
-<h1 align="center">Hi there, I'm Benjamin! 👋</h1>
+<h1 align="center">Hellow, I'm Benjamin! 👋</h1>
 
 <p align="center">
-  <strong>Computer Science Engineering Student | Full-Stack Developer | Tattoo Artist 🎨</strong>
+  <strong>Computer Science Engineering Student | future software Developer | Tattoo Artist 🎨</strong>
 </p>
 
 <p align="center">
-  I'm a passionate developer focused on building scalable web applications. Currently, I'm working with <strong>Java (Spring Boot)</strong> and <strong>React</strong>, exploring both monolithic and microservices architectures. When I'm not coding, I'm likely designing tattoos or exploring dark realism art.
+  I'm a passionate developer focused on building scalable web applications. Currently, I'm working with <strong>Java (Spring Boot)</strong> and <strong>React</strong>, exploring both monolithic and microservices architectures. When I'm not coding, i'm a tattoo artist.
 </p>
 
 <p align="center">
@@ -39,8 +39,6 @@
 </p>
 
 <hr />
-
-### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=benjamejia&show_icons=true&theme=radical&rank_icon=github" alt="Benjamin's GitHub stats" />
