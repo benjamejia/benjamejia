@@ -1,11 +1,11 @@
-<h1 align="center">Hello, I'm Benjamin! 👋</h1>
+<h1 align="center">Hi, I'm Benjamin! 👋</h1>
 
 <p align="center">
   <strong>Computer Science Engineering Student | future software Developer | Tattoo Artist 🎨</strong>
 </p>
 
 <p align="center">
-  I'm a passionate developer focused on building scalable web applications. Currently, I'm working with <strong>Java (Spring Boot)</strong> and <strong>React</strong>, exploring both monolithic and microservices architectures. When I'm not coding, i'm a tattoo artist.
+  I'm a passionate developer focused on learning interesting stuff about of the dev world. Currently, I'm working with <strong>C / ansi C </strong> and <strong>Embedded systems</strong>, exploring the world of the emebdded systems and firmware. When I'm not coding, i'm a tattoo artist.
 </p>
 
 <p align="center">
@@ -21,9 +21,9 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="java" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" alt="spring" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="c" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" alt="spring" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="react" />
   <img width="10" />
